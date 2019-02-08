@@ -12,5 +12,3 @@ const groupNums = (arrayData, dataMax, dataMin) => {
 
   console.log(groupArray, groupArray.length, sumOfGroup);
 }
-
-groupNums(boltArray, 1.015, 1.005);
